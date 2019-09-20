@@ -1,4 +1,4 @@
-public class bil extends Koretoj {
+public class Bil extends Koretoj {
     String maerke;
     String bilType;
 
